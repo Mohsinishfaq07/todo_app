@@ -1,0 +1,4 @@
+enum InputFieldType {
+  title,
+  description,
+}
